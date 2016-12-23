@@ -14,15 +14,5 @@ All ideas posted here are free to use by anyone as long as they give credit to t
 
 Check out the other ideas to get inspired.
 
-Make sure to copy this pattern for your ideas:
-
-```
-# [IDEA NAME]
-
-Original Author: [YOUR NAME]
-
-## Description
-
-[Describe your idea here...]
-
-```
+Make sure to look at the template file to create your ideas: 
+[Template](https://github.com/The-Brains/Ideas/blob/master/template-idea.md)
