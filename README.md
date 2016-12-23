@@ -11,3 +11,18 @@ To store technical ideas to improve the world
 It is easy with Git to know who participate and how much on each idea so feel free to contribute. 
 All ideas posted here are free to use by anyone as long as they give credit to the author and 
 `The Brains` organisation. 
+
+Check out the other ideas to get inspired.
+
+Make sure to copy this pattern for your ideas:
+
+```
+# [IDEA NAME]
+
+Original Author: [YOUR NAME]
+
+## Description
+
+[Describe your idea here...]
+
+```
