@@ -15,6 +15,6 @@ All ideas posted here are free to use by anyone as long as they give credit to t
 Check out the other ideas to get inspired.
 
 Make sure to look at the template file to create your ideas: 
-[Template](https://github.com/The-Brains/Ideas/blob/master/template-idea.md)
+[Template](https://raw.githubusercontent.com/The-Brains/Ideas/master/template-idea.md)
 
 If you want to contact us: 7h3.br41n5@gmail.com
