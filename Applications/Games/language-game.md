@@ -1,6 +1,15 @@
-Language Game
+# Language Game
+
+## Original Author: Jack Le Hamster
+
+## Status: BRAINSTORMING
+
+## Idea
 
 This idea is to provide an educational game that will help children as well as adults learn new language.
+
+### Description
+
 Most educational games are mostly disasters, and not fun for kids. With this language game, we're taking a different approach.
 
 Games: FUN
@@ -12,7 +21,10 @@ Already, you're feeling like a mechanical version of school, and the brain shuts
 To counter that, our game will be primarily fun. The learning will come from overcoming challenge, yet it will never
 feel like a homework or a school lesson.
 
-The language is is basically going to be an open world.
+The language game is basically going to be an open world where you can talk with characters in a different language.
+
+## Use cases
+
 You start in an area of your choice (mainly your own language). As you encounter people, you can communicate with them,
 asking questions, making requests, ect...
 
@@ -47,8 +59,17 @@ This is just one example, but we can see how we can expand this experience to:
 - Working
 - Going to school
 - Playing sports
+- Flirting
 
 We're basically replicating the experience of being in a different country, inside a game. We're providing exploration, and
 at the same time, a great learning experience.
+
+
+
+
+
+
+
+
 
 
