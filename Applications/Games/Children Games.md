@@ -1,13 +1,14 @@
-Children Games
+# Children Games
 
-Original Author: Jack Le Hamster
+## Original Author: Jack Le Hamster
 
-Status: BRAINSTORMING
+## Status: BRAINSTORMING
 
-Idea
+## Idea
 A game to bring out people's nostalgia, collecting games that people used to play as kids.
 
-Description
+### Description
+
 This is a game that compiles several mini-games. The game should be multiplayer, but might not have to be real-time.
 The game's style is a bit dream, reminiscent of childhood. The intro screen is a shadow scene of children dancing around,
 singing a [children's song](https://www.youtube.com/watch?v=PMvItn2lpbk).
