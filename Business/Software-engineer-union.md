@@ -16,7 +16,7 @@ good benefits, good salary, good life balance, etc....
 ## Use cases
 
 Few ideas:
-* Make sure that all software engineers get free 100% helath insurrance, vision covers
+* Make sure that all software engineers get free 100% health insurrance, vision covers
 * Make sure that all software engineers get opportunities to improve and learn more
 
 * We could have a platform working as a DAO where every member can vote on the next goals.
