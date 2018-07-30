@@ -18,3 +18,10 @@ Make sure to look at the template file to create your ideas:
 [Template](https://raw.githubusercontent.com/The-Brains/Ideas/master/template-idea.md)
 
 If you want to contact us: 7h3.br41n5@gmail.com
+
+
+## Miscellaneous
+
+### Useful links
+
+* [Brainstorming tool - Idea generator](https://www.boardofinnovation.com/idea-generator/)
